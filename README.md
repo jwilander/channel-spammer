@@ -1,1 +1,1 @@
-# channel-spammer
+# mm-mlh-hacktoberfest
